@@ -29,16 +29,16 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [2 Sum](https://leetcode.com/problems/two-sum/)  |  |  |
-| [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |  |  |
-| [Add 2 Numbers](https://leetcode.com/problems/add-two-numbers/) |  |  |
-| [Copy linked list with arbitrary pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)  |  |  |
-| [Level Order Tree Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)  |  |  |
-| [Connect all Siblings](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)  |  |  |
-| [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) |  |  |
-| [Find all Palindrome Substrings](https://leetcode.com/problems/palindromic-substrings/)  |  |  |
-| [Find maximum single sell profit](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  |  |  |
-| [Missing Number](https://leetcode.com/problems/missing-number/)  |  |  |
+| [2 Sum](https://leetcode.com/problems/two-sum/)  | Done |  |
+| [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Done |  |
+| [Add 2 Numbers](https://leetcode.com/problems/add-two-numbers/) | Done |  |
+| [Copy linked list with arbitrary pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)  | Skipped |  |
+| [Level Order Tree Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)  | Done |  |
+| [Connect all Siblings](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)  | Done |  |
+| [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Done |  |
+| [Find all Palindrome Substrings](https://leetcode.com/problems/palindromic-substrings/)  | Skipped |  |
+| [Find maximum single sell profit](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  | Done |  |
+| [Missing Number](https://leetcode.com/problems/missing-number/)  | Done |  |
 
 
 ---
@@ -54,10 +54,10 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Closest Meeting Point]( https://www.educative.io/m/closest-meeting-point) |  |  |
 | [Search 2D Matrix]( https://leetcode.com/problems/search-a-2d-matrix//) |  |  |
 | [Is Binary Number Multiple of 3]( https://practice.geeksforgeeks.org/problems/is-binary-number-multiple-of-30654/1)  |  |  |
-| [Kadane's Algorithm]( https://leetcode.com/problems/maximum-subarray/)  |  |  |
-| [Majority Element]( https://leetcode.com/problems/majority-element/)  |  |  |
+| [Kadane's Algorithm]( https://leetcode.com/problems/maximum-subarray/)  | Done |  |
+| [Majority Element]( https://leetcode.com/problems/majority-element/)  | Done |  |
 | [Search in a Rotated Array]( https://leetcode.com/problems/search-in-rotated-sorted-array/)  |  |  |
-| [Check for BST]( https://leetcode.com/problems/validate-binary-search-tree/) |  |  |
+| [Check for BST]( https://leetcode.com/problems/validate-binary-search-tree/) | Done |  |
 
 ---
 <br>
@@ -66,10 +66,10 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [Finding middle element in a linked list]( https://leetcode.com/problems/middle-of-the-linked-list/)  |  |  |
-| [Root to leaf path sum](https://leetcode.com/problems/path-sum/)  |  |  |
-| [Reverse a linked list]( https://leetcode.com/problems/reverse-linked-list/)  |  |  |
-| [Remove every k’th node]( https://practice.geeksforgeeks.org/problems/remove-every-kth-node/1/)  |  |  |
+| [Finding middle element in a linked list]( https://leetcode.com/problems/middle-of-the-linked-list/)  | DOne |  |
+| [Root to leaf path sum](https://leetcode.com/problems/path-sum/)  | Done |  |
+| [Reverse a linked list]( https://leetcode.com/problems/reverse-linked-list/)  | Done |  |
+| [Remove every k’th node]( https://practice.geeksforgeeks.org/problems/remove-every-kth-node/1/)  | Done |  |
 | [Merge 2 sorted linked list]( https://leetcode.com/problems/merge-two-sorted-lists/)  |  |  |
 | [Longest Even Length Substring such that Sum of First and Second Half is same]( https://practice.geeksforgeeks.org/problems/e015cb4d3f354b035d9665e7c8a54a7aefb1901b/1/) |  |  |
 | [k largest elements in an array]( https://leetcode.com/problems/kth-largest-element-in-an-array/) |  |  |
