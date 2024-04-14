@@ -70,7 +70,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Root to leaf path sum](https://leetcode.com/problems/path-sum/)  | Done |  |
 | [Reverse a linked list]( https://leetcode.com/problems/reverse-linked-list/)  | Done |  |
 | [Remove every k’th node]( https://practice.geeksforgeeks.org/problems/remove-every-kth-node/1/)  | Done |  |
-| [Merge 2 sorted linked list]( https://leetcode.com/problems/merge-two-sorted-lists/)  |  |  |
+| [Merge 2 sorted linked list]( https://leetcode.com/problems/merge-two-sorted-lists/)  | Done |  |
 | [Longest Even Length Substring such that Sum of First and Second Half is same]( https://practice.geeksforgeeks.org/problems/e015cb4d3f354b035d9665e7c8a54a7aefb1901b/1/) |  |  |
 | [k largest elements in an array]( https://leetcode.com/problems/kth-largest-element-in-an-array/) |  |  |
 | [Mirror Tree]( https://leetcode.com/problems/invert-binary-tree/)  | Done |  |
